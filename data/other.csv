@@ -40,6 +40,7 @@ name,source,gender,wikidata,type
 "Allée du Souvenir",,,,way
 "Ancien Rivage",,,,way
 "Ancien pont du tram",,,,way
+"Ancien trajet du tram de la citadelle",,,,way
 "Au Ritchî",,,,way
 "Autoroute de Wallonie",,,,way
 "Avenue Albert 1er",,,,way
@@ -381,6 +382,7 @@ Cortil-Waha,,,,way
 "Escalier des Degrés",,,,way
 Esplanade,,,,way
 "Esplanade Saint-Pierre au Château",,,,way
+"Esplanade de la Confluence",,,,way
 "Esplanade du Bon Air",,,,way
 "Ferme Moreau",,,,way
 "Ferme du Château",,,,way
@@ -541,6 +543,7 @@ Pré-des-Praules,,,,way
 "Quai de l'Etoile",,,,way
 "Quai des Chasseurs Ardennais",,,,way
 "Quai des Joghiers",,,,way
+"Quai du Grognon",,,,way
 "Quatre Gros Sous",,,,way
 RAVeL,,,,way
 "RAVeL 1",,,,way
@@ -552,7 +555,6 @@ RAVeL,,,,way
 "Rond-Point Michel Thonard",,,,way
 "Rond-Point d'Herbatte",,,,way
 "Rond-Point de Bomel",,,,way
-"Rond-Point du Grognon",,,,way
 "Rond-Point du Nord",,,,way
 "Route Merveilleuse",,,,way
 "Route Militaire",,,,way
@@ -614,7 +616,6 @@ RAVeL,,,,way
 "Rue Basil Dziky",,,,way
 "Rue Basse",,,,way
 "Rue Basse Chaussée",,,,way
-"Rue Basse Chaussée - Rue de Cognelée",,,,way
 "Rue Basse Marcelle",,,,way
 "Rue Basse Neuville",,,,way
 "Rue Bel Horizon",,,,way
@@ -998,6 +999,7 @@ RAVeL,,,,way
 "Rue de Bricgniot",,,,way
 "Rue de Brimez",,,,way
 "Rue de Bruxelles",,,,way
+"Rue de Cognelée",,,,way
 "Rue de Coppin",,,,way
 "Rue de Coquelet",,,,way
 "Rue de Cotibeau",,,,way
