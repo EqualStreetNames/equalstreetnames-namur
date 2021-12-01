@@ -4,7 +4,6 @@ name,source,gender,wikidata,type
 "Chaussée de Louvain - Chaussée de Namur",wikidata,,Q118958,way
 "Pont de France",wikidata,,Q142,way
 "Rue du Pont de Louvain",wikidata,,Q118958,way
-(Privé),,,,way
 "Accès RAVeL",,,,way
 "Al'Tchôde Ewe",,,,way
 "Allée Campagne du Marronnier",,,,way
@@ -381,6 +380,7 @@ Cortil-Waha,,,,way
 "En Clivau",,,,way
 "Escalier des Degrés",,,,way
 Esplanade,,,,way
+"Esplanade AC/DC",,,,way
 "Esplanade Saint-Pierre au Château",,,,way
 "Esplanade de la Confluence",,,,way
 "Esplanade du Bon Air",,,,way
