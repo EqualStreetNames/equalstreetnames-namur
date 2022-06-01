@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Chaussée de Louvain",wikidata,,Q118958,way
 "Chaussée de Louvain - Chaussée de Namur",wikidata,,Q118958,way
 "Pont de France",wikidata,,Q142,way
+"Rue de Fer",wikidata,,Q677,way
 "Rue du Pont de Louvain",wikidata,,Q118958,way
 "Accès RAVeL",,,,way
 "Al'Tchôde Ewe",,,,way
@@ -476,7 +477,7 @@ Mont-Sainte-Marie,,,,way
 "Place Kegeljan",,,,way
 "Place Léopold",,,,way
 "Place Louise Godin",,,,way
-"Place Marché aux Légumes",,,,way
+"Place Marché-aux-Légumes",,,,way
 "Place Maurice Servais",,,,way
 "Place Monseigneur Heylen",,,,way
 "Place Notre-Dame de la Paix",,,,way
@@ -883,6 +884,7 @@ RAVeL,,,,way
 "Rue Nelson Mandela",,,,way
 "Rue Neuve",,,,way
 "Rue Notre-Dame",,,,way
+"Rue Notre-Dame au Vivier",,,,way
 "Rue Notre-Dame des Champs",,,,way
 "Rue Notre-Dame du Vivier",,,,way
 "Rue Oscar Genot",,,,way
@@ -1006,7 +1008,6 @@ RAVeL,,,,way
 "Rue de Cotibeau",,,,way
 "Rue de Curnolô",,,,way
 "Rue de Dave",,,,way
-"Rue de Fer",,,,way
 "Rue de Fernelmont",,,,way
 "Rue de Ferraire",,,,way
 "Rue de Floriffoux",,,,way
