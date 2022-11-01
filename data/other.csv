@@ -58,7 +58,6 @@ name,source,gender,wikidata,type
 "Avenue Constant de Montpellier",,,,way
 "Avenue Félicien Rops",,,,way
 "Avenue Fernand Golenvaux",,,,way
-"Avenue Général Gracia",,,,way
 "Avenue Gouverneur Bovesse",,,,way
 "Avenue Jean Delhaye",,,,way
 "Avenue Jean Ier",,,,way
@@ -152,7 +151,6 @@ Champ-Ha,,,,way
 "Chaussée de Charleroi",,,,way
 "Chaussée de Liège",,,,way
 "Chaussée de Marche",,,,way
-"Chaussée de Namur",,,,way
 "Chaussée de Nivelles",,,,way
 "Chaussée de Perwez",,,,way
 "Chaussée de Waterloo",,,,way
@@ -369,6 +367,7 @@ Champ-Ha,,,,way
 "Comognes de Wierde",,,,way
 "Cortil Brûlé",,,,way
 Cortil-Waha,,,,way
+"Cour des Sciences",,,,way
 "Domaine de l'Espinette",,,,way
 "Domaine de la Fraternité",,,,way
 "Domaine du Bois de Néverlée",,,,way
@@ -398,7 +397,6 @@ Cortil-Waha,,,,way
 "Fond du Village",,,,way
 "Fonds de Dave",,,,way
 "Fonds des Chênes",,,,way
-"Forum de la Notre de dame de Paix",,,,way
 "Fosse Al'Dièle",,,,way
 "Fosse Al'Teroule",,,,way
 "Fosse au Sauvlon",,,,way
@@ -1057,7 +1055,6 @@ RAVeL,,,,way
 "Rue de Sardanson",,,,way
 "Rue de Sedent",,,,way
 "Rue de Stari Grad",,,,way
-"Rue de Tailfer",,,,way
 "Rue de Tri au Baur",,,,way
 "Rue de Vedrin",,,,way
 "Rue de Velaine",,,,way
@@ -1634,6 +1631,7 @@ RAVeL,,,,way
 "Sentier Jacques André Saintonge",,,,way
 "Sentier Jean Lemaire des Belges",,,,way
 "Sentier Saint-Simon",,,,way
+"Sentier Thomas",,,,way
 "Sentier de Boufflers",,,,way
 "Sentier de Géronsart",,,,way
 "Sentier de Gueugnet - Sentier n°77",,,,way
