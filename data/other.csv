@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Avenue Prince de Liège",wikidata,,Q2049261,way
 "Chaussée de Dinant",wikidata,,Q108247,way
 "Chaussée de Louvain",wikidata,,Q118958,way
 "Chaussée de Louvain - Chaussée de Namur",wikidata,,Q118958,way
@@ -43,7 +44,6 @@ name,source,gender,wikidata,type
 "Ancien trajet du tram de la citadelle",,,,way
 "Au Ritchî",,,,way
 "Autoroute de Wallonie",,,,way
-"Avenue Albert 1er",,,,way
 "Avenue Antoine Woitrin",,,,way
 "Avenue Arthur Procès",,,,way
 "Avenue Baron Fallon",,,,way
@@ -51,8 +51,6 @@ name,source,gender,wikidata,type
 "Avenue Baron de Lhoneux",,,,way
 "Avenue Baron de Moreau",,,,way
 "Avenue Bel Air",,,,way
-"Avenue Blanche de Namur",,,,way
-"Avenue Cardinal Mercier",,,,way
 "Avenue Charles Capelle",,,,way
 "Avenue Comte de Smet de Nayer",,,,way
 "Avenue Constant de Montpellier",,,,way
@@ -63,16 +61,13 @@ name,source,gender,wikidata,type
 "Avenue Jean Ier",,,,way
 "Avenue Jean Pochet",,,,way
 "Avenue Joseph Abras",,,,way
-"Avenue Léopold II",,,,way
 "Avenue Marcel Gourdin",,,,way
 "Avenue Marie d'Artois",,,,way
 "Avenue Maurice des Ombiaux",,,,way
 "Avenue Parc d'Amée",,,,way
-"Avenue Prince de Liège",,,,way
 "Avenue Reine Elisabeth",,,,way
 "Avenue Sart Paradis",,,,way
 "Avenue Sergent Vrithoff",,,,way
-"Avenue Vauban",,,,way
 "Avenue d'Ecolys",,,,way
 "Avenue de Celles",,,,way
 "Avenue de Falichamp",,,,way
@@ -120,7 +115,6 @@ name,source,gender,wikidata,type
 "Avenue du Printemps",,,,way
 "Avenue du Romarin",,,,way
 "Avenue du Transvaal",,,,way
-"Avenue du Val Saint-Georges",,,,way
 "Avenue du Val d'Or",,,,way
 "Barrière d'En-Bas",,,,way
 "Barrière d'En-Haut",,,,way
@@ -169,7 +163,6 @@ Champ-Ha,,,,way
 "Chemin Jauquet",,,,way
 "Chemin Notre-Dame au Bois",,,,way
 "Chemin Pierreux",,,,way
-"Chemin Prunelliers",,,,way
 "Chemin Racine",,,,way
 "Chemin Romagnesi",,,,way
 "Chemin Vas t'y frotte",,,,way
@@ -258,6 +251,7 @@ Champ-Ha,,,,way
 "Chemin des Mines",,,,way
 "Chemin des Pêcheurs",,,,way
 "Chemin des Pierres",,,,way
+"Chemin des Prunelliers",,,,way
 "Chemin des Ranchauds",,,,way
 "Chemin des Renards",,,,way
 "Chemin des Ritènes",,,,way
@@ -421,6 +415,7 @@ Hautes-Calenges,,,,way
 "Jaune Voie",,,,way
 L'Enjambée,,,,way
 "La Charmille",,,,way
+"La Falize",,,,way
 "La Fontaine-Champ-Hard",,,,way
 "La Sente",,,,way
 "La Voie qui Monte",,,,way
@@ -739,7 +734,6 @@ RAVeL,,,,way
 "Rue Foyer Jambois",,,,way
 "Rue François Boussemanne",,,,way
 "Rue François Bovesse",,,,way
-"Rue François Dufer",,,,way
 "Rue François Lorge",,,,way
 "Rue Frères Biéva",,,,way
 "Rue Fumal",,,,way
@@ -779,7 +773,6 @@ RAVeL,,,,way
 "Rue Hébar",,,,way
 "Rue Hector Fontaine",,,,way
 "Rue Hélène De Visscher",,,,way
-"Rue Henri Blès",,,,way
 "Rue Henri Burniaux",,,,way
 "Rue Henri Evenepoel",,,,way
 "Rue Henri Lecocq",,,,way
@@ -804,7 +797,6 @@ RAVeL,,,,way
 "Rue Jean Maus",,,,way
 "Rue Jean Noël",,,,way
 "Rue Jean Tousseul",,,,way
-"Rue Jean de Dampierre",,,,way
 "Rue Jean-Baptiste Brabant",,,,way
 "Rue Jean-Baptiste Fichefet",,,,way
 "Rue Jean-Joseph Gaillard",,,,way
@@ -823,7 +815,6 @@ RAVeL,,,,way
 "Rue Joseph Saintraint",,,,way
 "Rue Joseph Schmidt",,,,way
 "Rue Joseph Servais",,,,way
-"Rue Joseph Vincent",,,,way
 "Rue Joseph Wanet",,,,way
 "Rue Joseph Warègne",,,,way
 "Rue Joseph Wauters",,,,way
@@ -1090,7 +1081,7 @@ RAVeL,,,,way
 "Rue de l'Escalier",,,,way
 "Rue de l'Étoile",,,,way
 "Rue de l'Europe",,,,way
-"Rue de l'Évêché",,,,way
+"Rue de l'Evêché",,,,way
 "Rue de l'Hambraine",,,,way
 "Rue de l'Herbage",,,,way
 "Rue de l'Horlaine",,,,way
