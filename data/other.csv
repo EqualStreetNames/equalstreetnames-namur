@@ -298,6 +298,7 @@ Champ-Ha,,,,way
 "Chemin du Trou au Guy",,,,way
 "Chemin du Vieux Port",,,,way
 "Chemin i1",,,,way
+"Chemin i17 de Wépion",,,,way
 "Chemin i37",,,,way
 "Chemin les Tombes",,,,way
 "Chemin militaire",,,,way
@@ -376,7 +377,7 @@ Cortil-Waha,,,,way
 "En Clivau",,,,way
 "Escalier des Degrés",,,,way
 "Esplanade AC/DC",,,,way
-"Esplanade Saint-Pierre au Château",,,,way
+"Esplanade Saint-Pierre au Château",,,,relation
 "Esplanade de la Confluence",,,,way
 "Esplanade du Bon Air",,,,way
 "Ferme Moreau",,,,way
@@ -396,6 +397,7 @@ Cortil-Waha,,,,way
 "Fosse Al'Dièle",,,,way
 "Fosse Al'Teroule",,,,way
 "Fosse au Sauvlon",,,,way
+"Galerie Boileau",,,,way
 "Galerie Jardin d'Harscamp",,,,way
 "Galerie Saint-Joseph",,,,way
 Golgotha,,,,way
@@ -427,6 +429,7 @@ L'Enjambée,,,,way
 "Les Trîs",,,,way
 "Les Trois Bonniers",,,,way
 "Li P'tite Griplote",,,,way
+"Ligne de tramway 6",,,,way
 "Longue Voie",,,,way
 "Marché Saint-Remy",,,,way
 "Marché au Chanvre",,,,way
@@ -1188,7 +1191,6 @@ RAVeL,,,,way
 "Rue de la Tour",,,,way
 "Rue de la Valérianne",,,,way
 "Rue de la Vannerie",,,,way
-"Rue de la Varenne",,,,way
 "Rue de la Véronique",,,,way
 "Rue de la Vieille Croix",,,,way
 "Rue de la Vieille Eglise",,,,way
