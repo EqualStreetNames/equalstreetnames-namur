@@ -65,7 +65,7 @@ name,source,gender,wikidata,type
 "Avenue Marie d'Artois",,,,way
 "Avenue Maurice des Ombiaux",,,,way
 "Avenue Parc d'Amée",,,,way
-"Avenue Reine Elisabeth",,,,way
+"Avenue Reine Élisabeth",,,,way
 "Avenue Sart Paradis",,,,way
 "Avenue Sergent Vrithoff",,,,way
 "Avenue d'Ecolys",,,,way
@@ -438,6 +438,7 @@ L'Enjambée,,,,way
 Mont-Sainte-Marie,,,,way
 "Montagne Sainte Barbe",,,,way
 "Montagne d'Hastedon",,,,way
+N90,,,,way
 "Noûri Cortil",,,,way
 "Nouveau Chemin de Saint-Marc",,,,way
 "Nouvelle Route de Suarlée",,,,way
@@ -477,6 +478,7 @@ Mont-Sainte-Marie,,,,way
 "Place Kegeljan",,,,way
 "Place Léopold",,,,way
 "Place Louise Godin",,,,way
+"Place Marché aux Légumes",,,,way
 "Place Marché-aux-Légumes",,,,way
 "Place Maurice Servais",,,,way
 "Place Monseigneur Heylen",,,,way
@@ -1504,7 +1506,6 @@ RAVeL,,,,way
 "Rue du Lombard",,,,way
 "Rue du Long-Sart",,,,way
 "Rue du Mai",,,,way
-"Rue du Marché",,,,way
 "Rue du Marcotia",,,,way
 "Rue du Maréchal",,,,way
 "Rue du Mauvais Tri",,,,way
@@ -1634,7 +1635,6 @@ RAVeL,,,,way
 "Sentier de Saint Hilaire - Sentier n°75",,,,way
 "Sentier de Sainte Wivinne",,,,way
 "Sentier de Spy - Sentier n°60",,,,way
-"Sentier de Spy - Sentier n°74 (Entravé)",,,,way
 "Sentier de l'Octroi",,,,way
 "Sentier de la Bourgogne",,,,way
 "Sentier de la Bouteille",,,,way
@@ -1682,6 +1682,7 @@ RAVeL,,,,way
 "Sous les Murailles",,,,way
 Sous-la-Grange,,,,way
 "Square Arthur Masson",,,,way
+"Square Léopold",,,,way
 "Square de Béronvaux",,,,way
 "Square de Quinaux",,,,way
 "Square de la Charité sur Loire",,,,way
