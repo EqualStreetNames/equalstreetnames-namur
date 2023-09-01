@@ -472,6 +472,7 @@ N90,,,,way
 "Place François Bovesse",,,,way
 "Place Froidebise",,,,way
 "Place Gustave Falmagne",,,,way
+"Place Henri Maus",,,,way
 "Place Jacques Madelin",,,,way
 "Place Jean de Flandre",,,,way
 "Place José Romain",,,,way
@@ -497,7 +498,7 @@ N90,,,,way
 "Place de Québec",,,,way
 "Place de Saint-Marc",,,,way
 "Place de l'Ange",,,,way
-"Place de l'École des Cadets",,,,way
+"Place de l'Ecole des Cadets",,,,way
 "Place de l'Ecole du Génie",,,,way
 "Place de la Station",,,,way
 "Place de la Wallonie",,,,way
@@ -694,7 +695,7 @@ RAVeL,,,,way
 "Rue Edmond Delahaut",,,,way
 "Rue Edmond Tillieux",,,,way
 "Rue Édouard Binamé - Ry de Flandre",,,,way
-"Rue Édouard Ronvaux",,,,way
+"Rue Edouard Ronvaux",,,,way
 "Rue Elie Puissant",,,,way
 "Rue Emile Dessenius",,,,way
 "Rue Emile Marnach",,,,way
@@ -1084,7 +1085,7 @@ RAVeL,,,,way
 "Rue de l'Ermitage Saint-Hilaire",,,,way
 "Rue de l'Escaille",,,,way
 "Rue de l'Escalier",,,,way
-"Rue de l'Étoile",,,,way
+"Rue de l'Etoile",,,,way
 "Rue de l'Europe",,,,way
 "Rue de l'Evêché",,,,way
 "Rue de l'Hambraine",,,,way
@@ -1514,7 +1515,6 @@ RAVeL,,,,way
 "Rue du Mont",,,,way
 "Rue du Moulin",,,,way
 "Rue du Moulin de Meuse",,,,way
-"Rue du Moulin-Lavigne",,,,way
 "Rue du Moulin-Somal",,,,way
 "Rue du Muguet",,,,way
 "Rue du Nouveau Monde",,,,way
@@ -1574,7 +1574,6 @@ RAVeL,,,,way
 "Rue du Spinia",,,,way
 "Rue du Suary",,,,way
 "Rue du Sureau",,,,way
-"Rue du Tan",,,,way
 "Rue du Tivoli",,,,way
 "Rue du Tombois",,,,way
 "Rue du Tournoir",,,,way
@@ -1629,7 +1628,6 @@ RAVeL,,,,way
 "Sentier Saint-Simon",,,,way
 "Sentier Thomas",,,,way
 "Sentier communal 32",,,,way
-"Sentier de Boufflers",,,,way
 "Sentier de Géronsart",,,,way
 "Sentier de Gueugnet - Sentier n°77",,,,way
 "Sentier de Saint Hilaire - Sentier n°75",,,,way
@@ -1643,6 +1641,7 @@ RAVeL,,,,way
 "Sentier de la Vieille Pairelle",,,,way
 "Sentier des Amoureux",,,,way
 "Sentier des Bosquets",,,,way
+"Sentier des Boufflers",,,,way
 "Sentier des Coteaux",,,,way
 "Sentier du Baty de Dave",,,,way
 "Sentier du Bois d'Orjo",,,,way
