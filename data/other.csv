@@ -44,6 +44,7 @@ name,source,gender,wikidata,type
 "Ancien trajet du tram de la citadelle",,,,way
 "Au Ritchî",,,,way
 "Autoroute de Wallonie",,,,way
+"Autoroute des Ardennes",,,,way
 "Avenue Antoine Woitrin",,,,way
 "Avenue Arthur Procès",,,,way
 "Avenue Baron Fallon",,,,way
@@ -889,7 +890,6 @@ RAVeL,,,,way
 "Rue Nelson Mandela",,,,way
 "Rue Neuve",,,,way
 "Rue Notre-Dame",,,,way
-"Rue Notre-Dame au Vivier",,,,way
 "Rue Notre-Dame des Champs",,,,way
 "Rue Notre-Dame du Vivier",,,,way
 "Rue Oscar Genot",,,,way
@@ -1078,7 +1078,7 @@ RAVeL,,,,way
 "Rue de l'Avenir",,,,way
 "Rue de l'Avoine",,,,way
 "Rue de l'Eau Vive",,,,way
-"Rue de l'Échangeur",,,,way
+"Rue de l'Echangeur",,,,way
 "Rue de l'Éco-Construction",,,,way
 "Rue de l'École",,,,way
 "Rue de l'Économie",,,,way
@@ -1626,7 +1626,6 @@ RAVeL,,,,way
 "Sentier 106",,,,way
 "Sentier 57",,,,way
 "Sentier 58",,,,way
-"Sentier 59",,,,way
 "Sentier 67",,,,way
 "Sentier Adenet le Roi",,,,way
 "Sentier Atala",,,,way
@@ -1672,6 +1671,7 @@ RAVeL,,,,way
 "Sentier i4",,,,way
 "Sentier i50",,,,way
 "Sentier i59",,,,way
+"Sentier n°29",,,,way
 "Sentier n°64",,,,way
 "Sentier vicinal 26",,,,way
 "Sentier vicinal 32",,,,way
@@ -1686,6 +1686,7 @@ RAVeL,,,,way
 "Sentiers des Tombales",,,,way
 "Sentiers vicinaux 55b et 30",,,,way
 "Sous la Vecquée",,,,way
+"Sous la Vécquée",,,,way
 "Sous la ferme",,,,way
 "Sous les Murailles",,,,way
 Sous-la-Grange,,,,way
