@@ -8,6 +8,7 @@ name,source,gender,wikidata,type
 "Rue du Pont de Louvain",wikidata,,Q118958,way
 "Accès RAVeL",,,,way
 "Al'Tchôde Ewe",,,,way
+Allée,,,,way
 "Allée Campagne du Marronnier",,,,way
 "Allée Chant des Oiseaux",,,,way
 "Allée Saint-Vincent",,,,way
@@ -173,6 +174,7 @@ Champ-Ha,,,,way
 "Chemin Vicinal",,,,way
 "Chemin à Pani",,,,way
 "Chemin aux Tables",,,,way
+"Chemin d'Andoyà Guinait",,,,way
 "Chemin d'Auvelais",,,,way
 "Chemin d'Erpent",,,,way
 "Chemin d'Hautebise",,,,way
@@ -189,6 +191,7 @@ Champ-Ha,,,,way
 "Chemin de Maupelin",,,,way
 "Chemin de Morivaux",,,,way
 "Chemin de Moustier",,,,way
+"Chemin de Namur à Wierde",,,,way
 "Chemin de Plomcot",,,,way
 "Chemin de Potisseau",,,,way
 "Chemin de Reumont",,,,way
@@ -224,6 +227,8 @@ Champ-Ha,,,,way
 "Chemin de la Traverse",,,,way
 "Chemin de la Vieille Sambre",,,,way
 "Chemin de la ferme Focroule",,,,way
+"Chemin de remembrement n°r25 de Suarlée",,,,way
+"Chemin de remembrement n°r26 de Suarlée",,,,way
 "Chemin des Accourres",,,,way
 "Chemin des Aides",,,,way
 "Chemin des Ajoncs",,,,way
@@ -244,7 +249,9 @@ Champ-Ha,,,,way
 "Chemin des Deux Pays",,,,way
 "Chemin des Écoliers",,,,way
 "Chemin des Étangs",,,,way
+"Chemin des Fermes",,,,way
 "Chemin des Grasses Oies",,,,way
+"Chemin des Grenouilles",,,,way
 "Chemin des Italiens",,,,way
 "Chemin des Loriots",,,,way
 "Chemin des Marronniers",,,,way
@@ -305,10 +312,13 @@ Champ-Ha,,,,way
 "Chemin i37",,,,way
 "Chemin les Tombes",,,,way
 "Chemin militaire",,,,way
+"Chemin n°11",,,,way
 "Chemin n°44",,,,way
 "Chemin n°6",,,,way
 "Chemin n°7 de Isnes",,,,way
+"Chemin n°i18 de Suarlée",,,,way
 "Chemin n°i3",,,,way
+"Chemin n°i5 de Suarlée",,,,way
 "Chemin piéton vers l'Abbaye",,,,way
 "Chemin vicinal 1",,,,way
 "Chemin vicinal 12b",,,,way
@@ -322,8 +332,8 @@ Champ-Ha,,,,way
 "Chemin-Herdier-Hautes Calenges",,,,way
 "Cité Belle-Vue",,,,way
 "Cité Floréal",,,,way
-"Cité Germinal d'Asty Moulin",,,,way
 "Cité Germinal, Résidence Baccara",,,,way
+"Cité Germinal, Résidence Camélia",,,,way
 "Cité Germinal, Résidence Karina",,,,way
 "Cité Germinal, Résidence Sylvia",,,,way
 "Cité Provis",,,,way
@@ -378,7 +388,7 @@ Cortil-Waha,,,,way
 "Drève de Jette-Foolz",,,,way
 "Drève du Parc d'Erpent",,,,way
 "È l'Sewe",,,,way
-"Ecluse de Hastière",,,,way
+"Ecluse de La Plante",,,,way
 "En Clivau",,,,way
 "Escalier des Degrés",,,,way
 "Esplanade AC/DC",,,,way
@@ -480,7 +490,6 @@ N905011,,,,way
 "Place Gustave Falmagne",,,,way
 "Place Henri Maus",,,,way
 "Place Jacques Madelin",,,,way
-"Place Jean de Flandre",,,,way
 "Place José Romain",,,,way
 "Place Joséphine Charlotte",,,,way
 "Place Kegeljan",,,,way
@@ -525,6 +534,7 @@ N905011,,,,way
 "Place du Printemps de Pékin",,,,way
 "Place du Terminus",,,,way
 "Place du Théâtre",,,,way
+"Place du Treizième de Ligne",,,,way
 "Place du Vierly",,,,way
 "Place l'Ilon",,,,way
 "Plateau du Tram",,,,way
@@ -557,7 +567,7 @@ Pré-des-Praules,,,,way
 "Quatre Gros Sous",,,,way
 RAVeL,,,,way
 "RAVeL 1",,,,way
-"RAVeL 2",,,,way
+"RAVeL L142",,,,way
 "Rampe Verte",,,,way
 "Rampe du Comte Albert II",,,,way
 "Rempart de la Vierge",,,,way
@@ -1080,7 +1090,7 @@ RAVeL,,,,way
 "Rue de l'Avenir",,,,way
 "Rue de l'Avoine",,,,way
 "Rue de l'Eau Vive",,,,way
-"Rue de l'Echangeur",,,,way
+"Rue de l'Échangeur",,,,way
 "Rue de l'Éco-Construction",,,,way
 "Rue de l'École",,,,way
 "Rue de l'Économie",,,,way
@@ -1640,6 +1650,7 @@ RAVeL,,,,way
 "Sentier communal 32",,,,way
 "Sentier de Géronsart",,,,way
 "Sentier de Gueugnet - Sentier n°77",,,,way
+"Sentier de Poteresse",,,,way
 "Sentier de Saint Hilaire - Sentier n°75",,,,way
 "Sentier de Sainte Wivinne",,,,way
 "Sentier de Spy - Sentier n°60",,,,way
@@ -1673,8 +1684,8 @@ RAVeL,,,,way
 "Sentier i4",,,,way
 "Sentier i50",,,,way
 "Sentier i59",,,,way
-"Sentier n°29",,,,way
 "Sentier n°64",,,,way
+"Sentier n°i4 de Bovesse",,,,way
 "Sentier vicinal 26",,,,way
 "Sentier vicinal 32",,,,way
 "Sentier vicinal 42",,,,way
@@ -1739,6 +1750,7 @@ Trieux-Scieurs,,,,way
 "Urée do Bol",,,,way
 "Val Joli",,,,way
 "Val des Rois",,,,way
+"Venelle Evelyne Axell",,,,way
 "Venelle Geneviève Guillaume",,,,way
 "Venelle de l'Hôtel de Ville",,,,way
 "Venelle de la Grande Forge",,,,way
