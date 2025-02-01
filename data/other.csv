@@ -41,7 +41,6 @@ Allée,,,,way
 "Allée du Néviau",,,,way
 "Allée du Souvenir",,,,way
 "Ancien Rivage",,,,way
-"Ancien pont du tram",,,,way
 "Ancien trajet du tram de la citadelle",,,,way
 "Au Ritchî",,,,way
 "Autoroute de Wallonie",,,,way
@@ -143,6 +142,7 @@ Berlandi,,,,way
 "Boulevard du Nord",,,,way
 Champ-Ha,,,,way
 "Château d'Andoy",,,,way
+"Château du Pavillon",,,,way
 "Chaussée Nationale 4",,,,way
 "Chaussée de Charleroi",,,,way
 "Chaussée de Liège",,,,way
@@ -151,10 +151,12 @@ Champ-Ha,,,,way
 "Chaussée de Perwez",,,,way
 "Chaussée de Waterloo",,,,way
 "Chemin 10",,,,way
+"Chemin 14",,,,way
 "Chemin 19",,,,way
 "Chemin 20",,,,way
 "Chemin 21",,,,way
 "Chemin 25",,,,way
+"Chemin 3",,,,way
 "Chemin 31",,,,way
 "Chemin 32",,,,way
 "Chemin 33",,,,way
@@ -191,7 +193,6 @@ Champ-Ha,,,,way
 "Chemin de Maupelin",,,,way
 "Chemin de Morivaux",,,,way
 "Chemin de Moustier",,,,way
-"Chemin de Namur à Wierde",,,,way
 "Chemin de Plomcot",,,,way
 "Chemin de Potisseau",,,,way
 "Chemin de Reumont",,,,way
@@ -209,6 +210,7 @@ Champ-Ha,,,,way
 "Chemin de la Clairière",,,,way
 "Chemin de la Cloche",,,,way
 "Chemin de la Corniche",,,,way
+"Chemin de la Fallise",,,,way
 "Chemin de la Ferme",,,,way
 "Chemin de la Foliette",,,,way
 "Chemin de la Gatte d'Or",,,,way
@@ -492,7 +494,7 @@ N905011,,,,way
 "Place Jacques Madelin",,,,way
 "Place José Romain",,,,way
 "Place Joséphine Charlotte",,,,way
-"Place Kegeljan",,,,way
+"Place Kegeljan",,,,relation+way
 "Place Léopold",,,,way
 "Place Louise Godin",,,,way
 "Place Marché aux Légumes",,,,way
@@ -1025,6 +1027,7 @@ RAVeL,,,,way
 "Rue de Coquelet",,,,way
 "Rue de Cotibeau",,,,way
 "Rue de Curnolô",,,,way
+"Rue de Daussoulx",,,,way
 "Rue de Dave",,,,way
 "Rue de Fernelmont",,,,way
 "Rue de Ferraire",,,,way
@@ -1628,6 +1631,7 @@ RAVeL,,,,way
 "Ruelle Tombu",,,,way
 "Ruelle aux Loups",,,,way
 "Ruelle de l'Enfer",,,,way
+"Ruelle de la Fallise",,,,way
 "Ruelle de la Fosse",,,,way
 "Ruelle du Mont Ardoux",,,,way
 "Ruelle du Secrétaire",,,,way
@@ -1636,6 +1640,9 @@ RAVeL,,,,way
 "Sart des Bruaux",,,,way
 "Sentier 105",,,,way
 "Sentier 106",,,,way
+"Sentier 27",,,,way
+"Sentier 37",,,,way
+"Sentier 54",,,,way
 "Sentier 57",,,,way
 "Sentier 58",,,,way
 "Sentier 67",,,,way
@@ -1645,15 +1652,19 @@ RAVeL,,,,way
 "Sentier Fernan Nuñez",,,,way
 "Sentier Jacques André Saintonge",,,,way
 "Sentier Jean Lemaire des Belges",,,,way
+"Sentier Louis Albert",,,,way
 "Sentier Saint-Simon",,,,way
 "Sentier Thomas",,,,way
 "Sentier communal 32",,,,way
+"Sentier d'Estedon",,,,way
+"Sentier de Bricgniot",,,,way
 "Sentier de Géronsart",,,,way
 "Sentier de Gueugnet - Sentier n°77",,,,way
 "Sentier de Poteresse",,,,way
 "Sentier de Saint Hilaire - Sentier n°75",,,,way
 "Sentier de Sainte Wivinne",,,,way
 "Sentier de Spy - Sentier n°60",,,,way
+"Sentier de St Bicton",,,,way
 "Sentier de l'Octroi",,,,way
 "Sentier de la Bourgogne",,,,way
 "Sentier de la Bouteille",,,,way
@@ -1669,6 +1680,7 @@ RAVeL,,,,way
 "Sentier du Bois de Ferraire",,,,way
 "Sentier du Cornouiller",,,,way
 "Sentier du Curé",,,,way
+"Sentier du Fond",,,,way
 "Sentier du Gué - Sentier 66",,,,way
 "Sentier du Pré de Dhoux",,,,way
 "Sentier du Ratintot",,,,way
@@ -1676,14 +1688,24 @@ RAVeL,,,,way
 "Sentier du Ry de Dave",,,,way
 "Sentier du Saucy",,,,way
 "Sentier i1 (accès limité DNF)",,,,way
+"Sentier i12",,,,way
 "Sentier i16",,,,way
+"Sentier i2",,,,way
 "Sentier i2 (Privé)",,,,way
+"Sentier i24",,,,way
+"Sentier i25",,,,way
 "Sentier i26",,,,way
 "Sentier i27",,,,way
+"Sentier i29",,,,way
+"Sentier i32",,,,way
 "Sentier i34",,,,way
+"Sentier i37",,,,way
 "Sentier i4",,,,way
 "Sentier i50",,,,way
 "Sentier i59",,,,way
+"Sentier i6",,,,way
+"Sentier i7",,,,way
+"Sentier i8",,,,way
 "Sentier n°64",,,,way
 "Sentier n°i4 de Bovesse",,,,way
 "Sentier vicinal 26",,,,way
@@ -1737,6 +1759,7 @@ Terre-au-Pont,,,,way
 "Tienne des Biches",,,,way
 Tienne-aux-Baloûches,,,,way
 "Traverse des Muses",,,,way
+"Trémie d'Omalius",,,,way
 "Trieu Colin",,,,way
 "Trieu Josse",,,,way
 "Trieu Martin",,,,way
