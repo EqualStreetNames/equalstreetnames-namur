@@ -22,6 +22,7 @@ Allée,,,,way
 "Allée de la Cerisaie",,,,way
 "Allée de la Closerie",,,,way
 "Allée de la Grande Taille",,,,way
+"Allée de la crypte",,,,way
 "Allée des Alouettes",,,,way
 "Allée des Bergeronettes",,,,way
 "Allée des Cerisiers",,,,way
@@ -40,6 +41,8 @@ Allée,,,,way
 "Allée du Moulin à Vent",,,,way
 "Allée du Néviau",,,,way
 "Allée du Souvenir",,,,way
+"Allée extérieure gauche",,,,way
+"Allée intérieure gauche",,,,way
 "Ancien Rivage",,,,way
 "Ancien trajet du tram de la citadelle",,,,way
 "Au Ritchî",,,,way
@@ -250,6 +253,7 @@ Champ-Ha,,,,way
 "Chemin des Coteaux",,,,way
 "Chemin des Deux Pays",,,,way
 "Chemin des Écoliers",,,,way
+"Chemin des Écrevisses",,,,way
 "Chemin des Étangs",,,,way
 "Chemin des Fermes",,,,way
 "Chemin des Grasses Oies",,,,way
@@ -274,6 +278,7 @@ Champ-Ha,,,,way
 "Chemin des Vignerons",,,,way
 "Chemin des Vignobles",,,,way
 "Chemin des heureux",,,,way
+"Chemin du Bayou",,,,way
 "Chemin du Beau Vallon",,,,way
 "Chemin du Bienvenu",,,,way
 "Chemin du Blanc Batys",,,,way
@@ -308,6 +313,7 @@ Champ-Ha,,,,way
 "Chemin du Roi Albert",,,,way
 "Chemin du Saint-Désert",,,,way
 "Chemin du Trou au Guy",,,,way
+"Chemin du Vieux Chêne",,,,way
 "Chemin du Vieux Port",,,,way
 "Chemin i1",,,,way
 "Chemin i17 de Wépion",,,,way
@@ -1084,6 +1090,7 @@ RAVeL,,,,way
 "Rue de Warisoulx",,,,way
 "Rue de Zualart",,,,way
 "Rue de l'Abbaye",,,,way
+"Rue de l'Acadania",,,,way
 "Rue de l'Ange",,,,way
 "Rue de l'Ardenne",,,,way
 "Rue de l'Armée Grouchy",,,,way
@@ -1156,6 +1163,7 @@ RAVeL,,,,way
 "Rue de la Fontaine",,,,way
 "Rue de la Fontaine Colin",,,,way
 "Rue de la Fossette",,,,way
+"Rue de la Futaie",,,,way
 "Rue de la Gaillarde",,,,way
 "Rue de la Galène",,,,way
 "Rue de la Gare Fleurie",,,,way
@@ -1203,6 +1211,7 @@ RAVeL,,,,way
 "Rue de la Résistance",,,,way
 "Rue de la Roche à l'Argent",,,,way
 "Rue de la Rose des Vents",,,,way
+"Rue de la Sablière",,,,way
 "Rue de la Sapinette",,,,way
 "Rue de la Sapinière",,,,way
 "Rue de la Sarasse",,,,way
@@ -1302,6 +1311,7 @@ RAVeL,,,,way
 "Rue des Feux-Follets",,,,way
 "Rue des Filles de Meuse",,,,way
 "Rue des Flawnées",,,,way
+"Rue des Fleurets",,,,way
 "Rue des Fonds de Dave",,,,way
 "Rue des Forsythias",,,,way
 "Rue des Fosses",,,,way
@@ -1672,10 +1682,12 @@ RAVeL,,,,way
 "Sentier de la Fontaine",,,,way
 "Sentier de la Sapinette",,,,way
 "Sentier de la Vieille Pairelle",,,,way
+"Sentier des Acadiens",,,,way
 "Sentier des Amoureux",,,,way
 "Sentier des Bosquets",,,,way
 "Sentier des Boufflers",,,,way
 "Sentier des Coteaux",,,,way
+"Sentier des Créoles",,,,way
 "Sentier du Baty de Dave",,,,way
 "Sentier du Bois d'Orjo",,,,way
 "Sentier du Bois de Ferraire",,,,way
@@ -1688,6 +1700,7 @@ RAVeL,,,,way
 "Sentier du Ri - Sentier n°i2",,,,way
 "Sentier du Ry de Dave",,,,way
 "Sentier du Saucy",,,,way
+"Sentier du facteur",,,,way
 "Sentier i1 (accès limité DNF)",,,,way
 "Sentier i12",,,,way
 "Sentier i16",,,,way
