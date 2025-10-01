@@ -1,4 +1,11 @@
 name,source,gender,wikidata,type
+"Avenue Prince de Liège",wikidata,-,Q2049261,way
+"Chaussée de Dinant",wikidata,-,Q108247,way
+"Chaussée de Louvain",wikidata,-,Q118958,way
+"Chaussée de Louvain - Chaussée de Namur",wikidata,-,Q118958,way
+"Pont de France",wikidata,-,Q142,way
+"Rue de Fer",wikidata,-,Q677,way
+"Rue du Pont de Louvain",wikidata,-,Q118958,way
 "Avenue Blanche de Namur",wikidata,F,Q242598,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Avenue Albert 1er",wikidata,M,Q55008046,way
