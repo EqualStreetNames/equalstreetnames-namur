@@ -319,6 +319,7 @@ Champ-Ha,,,,way
 "Chemin les Tombes",,,,way
 "Chemin militaire",,,,way
 "Chemin n°11",,,,way
+"Chemin n°3",,,,way
 "Chemin n°44",,,,way
 "Chemin n°6",,,,way
 "Chemin n°7 de Isnes",,,,way
@@ -345,6 +346,7 @@ Champ-Ha,,,,way
 "Cité Provis",,,,way
 "Cité du Parc de Naninne",,,,way
 "Clos Vert",,,,way
+"Clos Vicomtesse de Baré",,,,way
 "Clos de la Cense",,,,way
 "Clos de la Verveine",,,,way
 "Clos des Angéliques des Prés",,,,way
@@ -400,6 +402,7 @@ Cortil-Waha,,,,way
 "Escalier des Degrés",,,,way
 "Esplanade AC/DC",,,,way
 "Esplanade Saint-Pierre au Château",,,,relation
+"Esplanade de Saint-Pierre au château",,,,way
 "Esplanade de la Confluence",,,,way
 "Esplanade du Bon Air",,,,way
 "Ferme Moreau",,,,way
@@ -452,6 +455,7 @@ L'Enjambée,,,,way
 "Les Trois Bonniers",,,,way
 "Li P'tite Griplote",,,,way
 "Ligne de tramway 6",,,,way
+"Maison seigneuriale d'Anhaive",,,,relation
 "Marché Saint-Remy",,,,way
 "Marché au Chanvre",,,,way
 "Mauvais Trî-Mwais Trî",,,,way
@@ -923,6 +927,7 @@ RAVeL,,,,way
 "Rue Père Cambier",,,,way
 "Rue Petite Forêt",,,,way
 "Rue Philippart",,,,way
+"Rue Philippe Deponty",,,,way
 "Rue Philippe Lobet",,,,way
 "Rue Pierre Depoortere",,,,way
 "Rue Pierre Houbotte",,,,way
@@ -1195,7 +1200,6 @@ RAVeL,,,,way
 "Rue de la Pêcherie",,,,way
 "Rue de la Pépinière",,,,way
 "Rue de la Perche",,,,way
-"Rue de la Peupleraie",,,,way
 "Rue de la Picardie",,,,way
 "Rue de la Pinède",,,,way
 "Rue de la Plage",,,,way
